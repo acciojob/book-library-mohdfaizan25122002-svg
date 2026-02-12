@@ -1,6 +1,10 @@
 /*  your css code here. If applicable */
 
-
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
 .book-library {
     background-color: #ffffff;
     width: 300px;
